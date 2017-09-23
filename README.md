@@ -1,2 +1,2 @@
 # portfolio
-A growing collection of projects developed for showcasing my skill set.
+A growing collection of projects developed to showcase my skill set.
